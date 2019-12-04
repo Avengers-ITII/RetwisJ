@@ -15,5 +15,10 @@ public class Test {
 		assertNull(null);
 	}
 	
+	@Test
+	public void testFind() throws Exception {
+		assertNull(true);
+	}
+	
 
 }
